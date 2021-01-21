@@ -27,7 +27,7 @@
 	<properties>
 		<org.springframework.version>4.2.5.RELEASE</org.springframework.version>
 		<apache.tiles.version>3.0.5</apache.tiles.version>
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 		<retrofit.version>2.0.2</retrofit.version>
 	</properties>
 	
